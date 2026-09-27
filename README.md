@@ -1,4 +1,5 @@
-![Uploading IMG_4097.png…]()
+<img width="2208" height="1242" alt="IMG_4097" src="https://github.com/user-attachments/assets/5b9308b6-f276-4644-90c0-8fd24cf3047f" />
+
 # EmptyOSCLI
 <img width="1372" height="943" alt="IMG_3684" src="https://github.com/user-attachments/assets/d98ba5f5-ec34-4eb7-b3df-3cf27faf1d23" />
 
