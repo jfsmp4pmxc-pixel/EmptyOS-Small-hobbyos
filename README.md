@@ -1,8 +1,9 @@
 
 
-# EmptyOSCLI
+# EmptyOS Original
 
 EmptyOS is a lightweight, closed-source Hobby OS developed for the X86 architecture.
+
 <img width="1372" height="943" alt="IMG_3684" src="https://github.com/user-attachments/assets/d98ba5f5-ec34-4eb7-b3df-3cf27faf1d23" />
 
 <img width="2208" height="1242" alt="IMG_4097" src="https://github.com/user-attachments/assets/5b9308b6-f276-4644-90c0-8fd24cf3047f" />
@@ -29,7 +30,7 @@ void ver() {
         if (isdev == 1) {print("DEV mode", CYAN);}
             else print(" ", RED);
     print(" Youtube @B40Ph4m\n", GREEN);
-    print(" (c) Empty Studio 2026\n", YELLOW);
+    print(" (c) Twoo! Studio 2026\n", YELLOW);
 }
 ```
 
