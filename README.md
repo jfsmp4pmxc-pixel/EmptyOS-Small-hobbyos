@@ -92,3 +92,7 @@ add:
 ##### b0.4.0 (30):
 - frist version
 
+### Credits
+
+* @B40Ph4m  YT
+* @h3ll0-70 
