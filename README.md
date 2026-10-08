@@ -18,26 +18,12 @@
 
 ### Orther
 
-##### code of the "ver" command =]]
-```C
-void ver() {
-    print("                       ORIGINAL\n", GREEN);
-    print(" version b0.4.2.37\n", RED);
-    print(" x86 Edition\n", GREEN);
-        if (version == 1) {print("NOTE: THIS IS A BETA VERSION\n\n", YELLOW);}
-	     else if (version == 0) {print("Stable version\n\n", GREEN);}
-	     else print("Not verified.\n\n", RED);
-         
-        if (isdev == 1) {print("DEV mode", CYAN);}
-            else print(" ", RED);
-    print(" Youtube @B40Ph4m\n", GREEN);
-    print(" (c) Twoo! Studio 2026\n", YELLOW);
-}
-```
-
 ### Work progress (empty)
 
 ### Changelog
 
+### Credits
 
+* @B40Ph4m  YT
+* @h3ll0-70 YT
 
