@@ -1,6 +1,6 @@
 
 
-# EmptyOS Original
+# EmptyOS Original Beta build
 
 * EmptyOS is a lightweight, closed-source Hobby OS developed for the X86 architecture.
 * Published and developed by Twoo! Studio (2o! Studio)
@@ -39,56 +39,5 @@ void ver() {
 
 ### Changelog
 
-##### b0.5.0.12 (pacth 3):
 
-add:
-- Full keyboard
-
-fix:
-- bugs
-
-##### b0.5.0.7 (patch 2):
-
-add:
-- Directory concept
-- command "cd"
-- command "rm"
-- command "mkdir"
-
-fix:
-- bugs
-
-##### b0.5.0.3 (patch 1):
-
-add:
-- command "clean"
-
-fix:
-- Coloring 
-- bugs
-
-##### b0.5.0.2:
-
-add:
-- FAT12
-- Coloring
-
-fix:
-- bugs
-
-##### b0.5.0.1:
-
-add:
-- file system testing.
-
-remove:
-- Ramdisk.
-
-##### b0.4.1 (31):
-
-add:
-- command "ver", display operating system version information
-
-##### b0.4.0 (30):
-- frist version
 
